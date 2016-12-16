@@ -1,0 +1,10 @@
+{
+  "name": "node-version-test",
+  "version": "0.0.1",
+  "description": "Node Version Update TEst",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "^2.0.0",
+    "@angular/common": "^2.0.0"
+  }
+}
